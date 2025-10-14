@@ -26,5 +26,13 @@
         ]
       }
     ]
+  },
+  "footer": {
+    "socials": {
+      "reddit": "https://www.reddit.com/r/classhopper/",
+      "linkedin": "https://www.linkedin.com/company/classhopper-app/",
+      "github": "https://github.com/classhopperapp",
+      "instagram": "https://www.instagram.com/classhopperapp/"
+    }
   }
 }
